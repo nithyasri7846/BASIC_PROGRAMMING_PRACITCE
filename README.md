@@ -1,2 +1,1 @@
-# Guvi-challenges
-Guvi Practices
+# CODECHEF
