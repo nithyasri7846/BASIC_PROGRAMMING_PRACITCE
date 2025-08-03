@@ -1,1 +1,6 @@
 # BASICS
+
+## LEETCODE
+## CODECHEF
+## GFG
+## SKILLRACK
